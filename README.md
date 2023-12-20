@@ -20,6 +20,11 @@ docker exec -it ruby_container bash
 ruby -e 'puts "hoge"'
 ```
 
+## rails起動
+```bash
+bin/rails server
+```
+
 # README
 
 This README would normally document whatever steps are necessary to get the
